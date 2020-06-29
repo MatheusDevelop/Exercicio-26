@@ -1,0 +1,13 @@
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.exe
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.deps.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.runtimeconfig.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.runtimeconfig.dev.json
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\bin\Debug\netcoreapp3.1\xdb.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.csprojAssemblyReference.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.AssemblyInfo.cs
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.dll
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.pdb
+C:\Users\willi\Documents\Projetos de desenvolvimento\xdb\obj\Debug\netcoreapp3.1\xdb.genruntimeconfig.cache
